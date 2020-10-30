@@ -1,37 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fatememosaee/sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am applying to the Master of Science program in Civil Engineering at the University of York because I believe my technical skills are matched with  your program.
+فاطمه موسایی هستم.در دوران دبیرستان در رشته ریاضی تحصیل کردم و در زمانی ک هم مشغول به تحصیل بودم به دانش اموزان ابتدایی و راهنمایی در درسهایشان کمک میکردم.در دبیرستان بسیار نمرات خوب و عالی کسب میکردم.روزی که متوجه شدم در رشته کامپیوتر قبول شدم بسیار خوشحال بودم زیرا کار کردن با کامپیوتر برایم اذت بخش بود. حدودا ترم دو بودم که با کسانی ک برنامه نویسی و طراحی وب مسلط بودند اشنا شدم و از انها جویای علوم کامپیوتری شدم. در حال حاظر میخوام نتورک را شروع کنم و خود را به حد عالی در این زمینه برسانم. یکی از خصوصیات رفتاری من کنجکاو بودن هست که همین کار باعث شد تا من با افراد خبره در این رشته اشنا بشم ودر مسیر خوبی قدم بزارم.
+از کارهایی که میخواهم در اینده انجام بدهم این است که: بتوانم یک نتورکر ماهر بشم. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Fatemeh Mousaei. I studied mathematics in high school and while I was studying I helped elementary and middle school students in their studies. I got very good and excellent grades in high school. The day I found out that I was accepted in computer science. I was very happy because it was fun to work with the computer. I was about two years old when I met people who were proficient in web programming and design and asked them about computer science. Right now I want to start a network and excel in this field. One of my behavioral traits is being curious, which made me meet experts in the field and walk in a good direction.
+One of the things I want to do in the future is: Become a skilled networker
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatememosaee/sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
